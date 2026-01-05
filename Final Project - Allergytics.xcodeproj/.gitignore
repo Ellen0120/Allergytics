@@ -1,1 +1,58 @@
+# =====================
+# macOS
+# =====================
 .DS_Store
+
+# =====================
+# Xcode user data
+# =====================
+xcuserdata/
+*.hmap
+
+# =====================
+# Build & packaging
+# =====================
+.build/
+DerivedData/
+Build/
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# =====================
+# Playgrounds
+# =====================
+timeline.xctimeline
+playground.xcworkspace
+
+# =====================
+# Swift Package Manager
+# =====================
+# Packages/
+# Package.pins
+# Package.resolved
+# .swiftpm/
+
+# =====================
+# CocoaPods
+# =====================
+# Pods/
+# *.xcworkspace
+
+# =====================
+# Carthage
+# =====================
+Carthage/Build/
+
+# =====================
+# fastlane
+# =====================
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# =====================
+# Firebase
+# =====================
+GoogleService-Info.plist
